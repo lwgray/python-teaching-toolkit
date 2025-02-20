@@ -1,0 +1,67 @@
+site_name: Python Teaching Toolkit
+site_description: A curated collection of Python, Machine Learning, and AI teaching materials
+site_author: Lawrence Gray, PhD 
+
+site_url: https://lwgray.github.io/python-teaching-toolkit
+repo_url: https://github.com/lwgray/python-teaching-toolkit
+repo_name: lwgray/python-teaching-toolkit
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.details
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: index.md
+  - Python:
+    - Fundamentals:
+      - "Delimiters": 
+        - Overview: python/fundamentals/delimiters/index.md
+        - Guide: python/fundamentals/delimiters/delimiters.md
+        - Resources: python/fundamentals/delimiters/resources/exercises.py
+    - Machine Learning: python/machine_learning/index.md
+    - AI: python/ai/index.md
+  - Guides:
+    - Overview: guides/README.md
+
+plugins:
+  - search
+  - tags
+
+repo_url: https://github.com/lwgray/python-teaching-toolkit
+repo_name: lwgray/python-teaching-toolkit
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/lwgray/python-teaching-toolkit
