@@ -6,17 +6,17 @@ Welcome to a comprehensive collection of Python programming educational material
 
 <div class="grid cards" markdown>
 
-- :fontawesome-solid-book: **[Python Delimiters](python/fundamentals/delimiters/index.md)**
+- <i class=fas fa-book"></i>  **[Python Delimiters](python/fundamentals/delimiters/index.md)**
     - Learn when to use (), [], and {}
     - Interactive examples and exercises
     - Complete guide with mnemonics
 
-- :fontawesome-solid-brain: **[Machine Learning](python/machine_learning/index.md)**
+- <i class="fas fa-brain"></i> **[Machine Learning](python/machine_learning/index.md)**
     - Coming soon
     - ML fundamentals and applications
     - Practical implementations
 
-- :fontawesome-solid-robot: **[Artificial Intelligence](python/ai/index.md)**
+- <i class="fas fa-robot"></i> **[Artificial Intelligence](python/ai/index.md)**
     - Coming soon
     - AI concepts and principles
     - Real-world applications

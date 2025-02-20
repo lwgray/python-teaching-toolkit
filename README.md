@@ -5,7 +5,7 @@ A curated collection of Python, Machine Learning, and AI teaching materials for 
 ## 📚 Available Documentation
 
 - **Python Fundamentals**
-  - [Understanding Delimiters](docs/python/fundamentals/delimiters.md)
+  - [Understanding Delimiters](docs/python/fundamentals/delimiters/delimiters.md)
   - [More guides coming soon...]()
 
 - **Machine Learning**

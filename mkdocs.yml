@@ -11,10 +11,10 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - naviagtion.expand
     - navigation.indexes
     - navigation.top
-    - search.suggest
-    - search.highlight
+    - toc.integrate
     - content.code.copy
   palette:
     - scheme: default
@@ -60,6 +60,9 @@ plugins:
 
 repo_url: https://github.com/lwgray/python-teaching-toolkit
 repo_name: lwgray/python-teaching-toolkit
+
+extra_css:
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
 
 extra:
   social:
