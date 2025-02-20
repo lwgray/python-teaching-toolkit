@@ -1,33 +1,39 @@
-# Welcome to Python Teaching Toolkit
+# Python Teaching Toolkit
 
-## 📖 Available Formats
+Welcome to a comprehensive collection of Python programming educational materials, focusing on practical learning through clear explanations and real-world examples.
 
-Our materials are available in multiple formats to suit different learning styles:
+## Quick Navigation
 
-### Web/Markdown (.md)
-- 👍 Best for online reading
-- 👍 Includes syntax highlighting
-- 👍 Searchable content
+<div class="grid cards" markdown>
 
-### Jupyter Notebooks (.ipynb)
-- 👍 Interactive code execution
-- 👍 Live experimentation
-- 👍 Step-by-step tutorials
+- :fontawesome-solid-book: **[Python Delimiters](python/fundamentals/delimiters/index.md)**
+    - Learn when to use (), [], and {}
+    - Interactive examples and exercises
+    - Complete guide with mnemonics
 
-### PDF Documents (.pdf)
-- 👍 Print-friendly format
-- 👍 Offline access
-- 👍 Classroom handouts
+- :fontawesome-solid-brain: **[Machine Learning](python/machine_learning/index.md)**
+    - Coming soon
+    - ML fundamentals and applications
+    - Practical implementations
 
-## 🗺️ Finding Resources
+- :fontawesome-solid-robot: **[Artificial Intelligence](python/ai/index.md)**
+    - Coming soon
+    - AI concepts and principles
+    - Real-world applications
 
-1. Browse the sidebar to find your topic
-2. Each topic page lists available formats
-3. Choose the format that best suits your needs
+</div>
 
-## 💡 Format Recommendations
+## Available Resources
 
-- **Beginners**: Start with Web/Markdown versions
-- **Students**: Use Jupyter notebooks for practice
-- **Teachers**: Check PDF versions for printing
-- **Developers**: Clone the repo to access all formats
+- **Python Fundamentals**
+    - [Delimiters Guide](python/fundamentals/delimiters/index.md)
+        - [Complete Guide](python/fundamentals/delimiters/delimiters.md)
+        - [Practice Exercises](python/fundamentals/delimiters/resources/exercises.py)
+
+[More topics coming soon...]
+
+## How to Use This Site
+
+1. Use the **navigation tabs** at the top to choose a main topic
+2. Select specific subjects from the **left sidebar**
+3. Browse the table of contents on the right for quick jumps within a page

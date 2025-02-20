@@ -1,0 +1,15 @@
+/* Make navigation more prominent */
+.md-nav {
+    font-size: 0.9rem !important;
+}
+
+/* Make active section more visible */
+.md-nav__item .md-nav__link--active {
+    font-weight: bold;
+    color: var(--md-primary-fg-color);
+}
+
+/* Add visual cue for clickable sections */
+.md-nav__item .md-nav__link:hover {
+    text-decoration: underline;
+}
